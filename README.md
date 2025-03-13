@@ -1,4 +1,4 @@
-# Simple To-Do List ✅  
+# Simple To-Do List   
 
 This repository contains a basic script that lets you create a simple to-do list.  
 
