@@ -7,7 +7,7 @@ This repository contains a basic script that lets you create a simple to-do list
 tasks = []  
 
 while True:  
-    task = input("Enter a task (or type 'done' to finish): ")  
+    task = input("Enter your task (or type 'done' to finish): ")  
     if task.lower() == "done":  
         break  
     tasks.append(task)  
