@@ -1,6 +1,6 @@
 # Simple To-Do List   
 
-This repository has a basic script that lets you create a simple to-do list.  
+This repository contains a basic script that lets you create a simple to-do list.  
 
 ## Code in This Repo  
 ```python
